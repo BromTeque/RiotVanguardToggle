@@ -42,4 +42,4 @@ FOR /F "tokens=3 delims=: " %%H IN ('sc query vgk ^| findstr "        STATE"') D
 
 REM Reboots computer.
 TIMEOUT /T 30
-REM SHUTDOWN -R -T 00
+SHUTDOWN -R -T 00
