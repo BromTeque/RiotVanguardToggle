@@ -3,7 +3,7 @@
 # RiotVanguardToggle
 Toggles Riot Vanguard Anti-Cheat
 
-RVT works by renaiming the Riot Vanguard Anti-Cheat file, "vgk.sys". This prevents the system from running the file at boot.
+RVT works by renaming the Riot Vanguard Anti-Cheat file, "vgk.sys". This prevents the system from running the file on boot.
 
 # FAQ
 
